@@ -14,14 +14,15 @@ forms based on the provided inputs.
 - *Tailwind CSS* – Utility-first CSS framework
 - *Lucide React* – Icon library
 ### *Key Dependencies*
-json
+```json
 {
- "react": "^18.3.1",
- "react-dom": "^18.3.1",
- "lucide-react": "^0.344.0",
- "tailwindcss": "^3.4.1",
- "typescript": "^5.5.3"
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+  "lucide-react": "^0.344.0",
+  "tailwindcss": "^3.4.1",
+  "typescript": "^5.5.3"
 }
+```
 ---
 ## 🗂️ Project Structure  
 ```
