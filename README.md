@@ -23,7 +23,8 @@ json
  "typescript": "^5.5.3"
 }
 ---
-## 🗂 Project Structure
+## 🗂️ Project Structure  
+```
 src/
 ├── components/
 │   ├── ChatInput.tsx
@@ -34,6 +35,7 @@ src/
 │   ├── index.ts
 ├── App.tsx
 └── main.tsx
+```
 
 ---
 ## ✨ Core Features
