@@ -16,3 +16,21 @@ export const itrForms = {
     applicableFor: ['Business/Profession', 'Salary', 'House Property', 'Capital Gains', 'Other Sources']
   }
 };
+
+export const taxSavingOptions = [
+  {
+    section: '80C',
+    options: [
+      { name: 'PPF (Public Provident Fund)', maxLimit: 150000 },
+      { name: 'ELSS (Equity Linked Saving Scheme)', maxLimit: 150000 },
+      { name: 'Life Insurance Premium', maxLimit: 150000 }
+    ]
+  },
+  {
+    section: '80D',
+    options: [
+      { name: 'Health Insurance Premium', maxLimit: 25000 },
+      { name: 'Parents Health Insurance Premium', maxLimit: 50000 }
+    ]
+  }
+];
