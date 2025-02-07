@@ -103,4 +103,19 @@ Feel Free to react out to the team for support or collaboration opportunities:
 
 -*Sneha Chavan*
 -Branch:Computer
--Email:[snchavan1515@gmail.com](
+- Email: [snchavan1515@gmail.com](mailto:snchavan1515@gmail.com)
+- Contact: +91 7350296838
+
+-*Darshan Patil*   - Branch: AIDS
+-Email: [patildarshann3@gmail.com](mailto:patildarshann3@gmail.com)
+-Contact: +91 9860385314   
+
+- *Atharv Bhosale*
+- Branch: Computer
+- Email: [atharvbhosale00@gmail.com](mailto:atharvbhosale00@gmail.com)
+- Contact: +91 9561706020
+
+--- 
+
+### 🙏 Thank You!   
+Feel free to contribute or report issues by opening an [Issue (https://github.com/YourUsername/taxmate/issues).
