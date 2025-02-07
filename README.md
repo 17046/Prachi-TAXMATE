@@ -65,3 +65,42 @@ src/
 - ARIA labels and keyboard navigation for accessibility
 ---
 ## 🔒 Scalability & Security 
+- **No Data Storage:** All data is managed on the client-side and cleared on exit for security.  
+- **Scalable Architecture:** Serverless deployment options and modular code for feature expansion.  
+- **Future Enhancements:** Plan to integrate multilingual support (English/Hindi) and real-time API updates.  
+
+---
+
+## � Installation
+
+1. Clone this repository:
+   bash
+   git clone https://github.com//YourUsername/tax-mate.git
+   cd tax-mate
+
+2. Install dependencies:
+   bash
+   npm install
+
+3. Run the development server:
+   bash
+   npm run dev
+
+4. Build for production:
+   bash
+   npm run build
+
+---
+
+## �Contact us
+
+Feel Free to react out to the team for support or collaboration opportunities:
+
+-*Prachi Bhagat*
+-Branch:AIDS
+-Email:[prachibhagat999@gmail.com](mailto: prachibhagat999@gmail.com)
+-Contact: +91 8799936244
+
+-*Sneha Chavan*
+-Branch:Computer
+-Email:[snchavan1515@gmail.com](
