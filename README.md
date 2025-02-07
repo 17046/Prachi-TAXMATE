@@ -39,22 +39,25 @@ src/
 ```
 
 ---
-## ✨ Core Features
-1. *Interactive Chat Interface*
- - Real-time message exchange
- - Pre-defined response options
- - Message history tracking
- - Auto-scroll to the latest messages
-2. *Tax Form Recommendation System*
- - Identifies income sources
- - Handles multiple income streams
- - Provides ITR form recommendations
- - Suggests tax-saving options
-3. *User Interaction Features*
- - Message likes/dislikes
- - Copy message functionality
- - Customizable backgrounds
- - Smooth animated transitions
+## ✨ Core Features  
+1. **Interactive Chat Interface**  
+   - Real-time message exchange  
+   - Pre-defined response options  
+   - Message history tracking  
+   - Auto-scroll to the latest messages  
+
+2. **Tax Form Recommendation System**  
+   - Identifies income sources  
+   - Handles multiple income streams  
+   - Provides ITR form recommendations  
+   - Suggests tax-saving options  
+
+3. **User Interaction Features**  
+   - Message likes/dislikes  
+   - Copy message functionality  
+   - Customizable backgrounds  
+   - Smooth animated transitions  
+
 ---
 ## 🎨 User Interface Design
 - *Responsive Layout* using Tailwind CSS utility classes
