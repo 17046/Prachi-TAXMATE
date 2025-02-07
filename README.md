@@ -96,25 +96,25 @@ src/
 
 Feel Free to react out to the team for support or collaboration opportunities:
 
--*Prachi Bhagat*
--Branch:AIDS
--Email:[prachibhagat999@gmail.com](mailto: prachibhagat999@gmail.com)
--Contact: +91 8799936244
+- **Prachi Bhagat**  
+  - Branch: AIDS  
+  - Email: [prachibhagat999@gmail.com](mailto:prachibhagat999@gmail.com)  
+  - Contact: +91 8799936244  
 
--*Sneha Chavan*
--Branch:Computer
-- Email: [snchavan1515@gmail.com](mailto:snchavan1515@gmail.com)
-- Contact: +91 7350296838
+- **Sneha Chavan**  
+  - Branch: Computer  
+  - Email: [snchavan1515@gmail.com](mailto:snchavan1515@gmail.com)  
+  - Contact: +91 7350296838  
 
--*Darshan Patil*   - Branch: AIDS
--Email: [patildarshann3@gmail.com](mailto:patildarshann3@gmail.com)
--Contact: +91 9860385314   
+- **Darshan Patil**  
+  - Branch: AIDS  
+  - Email: [patildarshann3@gmail.com](mailto:patildarshann3@gmail.com)  
+  - Contact: +91 9860385314  
 
-- *Atharv Bhosale*
-- Branch: Computer
-- Email: [atharvbhosale00@gmail.com](mailto:atharvbhosale00@gmail.com)
-- Contact: +91 9561706020
-
+- **Atharv Bhosale**  
+  - Branch: Computer  
+  - Email: [atharvbhosale00@gmail.com](mailto:atharvbhosale00@gmail.com)  
+  - Contact: +91 9561706020  
 --- 
 
 ### 🙏 Thank You!   
