@@ -26,14 +26,15 @@ json
 ## 🗂 Project Structure
 src/
 ├── components/
-│ ├── ChatInput.tsx
-│ ├── ChatMessage.tsx
+│   ├── ChatInput.tsx
+│   ├── ChatMessage.tsx
 ├── data/
-│ ├── itrForms.ts
+│   ├── itrForms.ts
 ├── types/
-│ ├── index.ts
+│   ├── index.ts
 ├── App.tsx
 └── main.tsx
+
 ---
 ## ✨ Core Features
 1. *Interactive Chat Interface*
